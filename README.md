@@ -44,9 +44,9 @@ git clone https://github.com/lucas-andrade94/html-barbershop.git
 
 ### Screens
 <div align="center">
-    <img alt="Home Page" title="Home Page" src=".github/screen-1.jpg?raw=true" width="200px" />
-    <img alt="Home Page" title="Home Page" src=".github/screen-2.jpg?raw=true" width="200px" />
-    <img alt="Home Page" title="Home Page" src=".github/screen-3.jpg?raw=true" width="200px" />
-    <img alt="Product Page" title="Product Page" src=".github/screen-4.jpg?raw=true" width="200px" />
-    <img alt="Contact Page" title="Contact Page" src=".github/screen-5.jpg?raw=true" width="200px" />
+    <img alt="Home Page" title="Home Page" src=".github/screen-1.png?raw=true" width="200px" />
+    <img alt="Home Page" title="Home Page" src=".github/screen-2.png?raw=true" width="200px" />
+    <img alt="Home Page" title="Home Page" src=".github/screen-3.png?raw=true" width="200px" />
+    <img alt="Product Page" title="Product Page" src=".github/screen-4.png?raw=true" width="200px" />
+    <img alt="Contact Page" title="Contact Page" src=".github/screen-5.png?raw=true" width="200px" />
 </div>
