@@ -39,7 +39,7 @@ git clone https://github.com/lucas-andrade94/react-native-gatito.git
 ```
 
 ### How to run
-- Open index.html file
+- Open index.html file or acess https://lucas-andrade94.github.io/html-barbershop/
 
 
 ### Screens
