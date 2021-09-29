@@ -35,7 +35,7 @@ What is necessary to have installed:
 ### Run in terminal:
 ```
 # Clone this repository
-git clone https://github.com/lucas-andrade94/react-native-gatito.git
+git clone https://github.com/lucas-andrade94/html-barbershop.git
 ```
 
 ### How to run
